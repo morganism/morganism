@@ -1,6 +1,8 @@
-### Why is there no freely available Terraform GUI ?
+### RubyMotion ? RedPotion ? having fun with these
 
-##  Building a module should be super easy.
+##  writing iOS & OSK apps, and a pinch of android
+
+##  and a Remotelock API ruby client 
 
 <!--
 **morganism/morganism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
