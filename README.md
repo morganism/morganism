@@ -1,8 +1,10 @@
-### RubyMotion ? RedPotion ? having fun with these
+## 10/05/23 finally ! 
+- 🔭 I’m currently working on: a simple SSE server written in Ruby
 
-##  writing iOS & OSK apps, and a pinch of android
+- 🌱 I’m currently learning: Games! The DOM, js, Node.js, jQuery, Bootstrap, modals and new (to me) HTML tags and custom .. most of this works well in all the Real browsers .. not I.E though ...
+- Browser compat issues? Try This: ```npm install -g caniuse-cmd``` 
+- Just what you've always wanted, it's a caniuse command line tool! All the power of caniuse.com with none of the nice UI or interactivity!
 
-##  and a Remotelock API ruby client 
 
 <!--
 **morganism/morganism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
