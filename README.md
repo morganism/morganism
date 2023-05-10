@@ -2,8 +2,11 @@
 - 🔭 I’m currently working on: a simple SSE server written in Ruby
 
 - 🌱 I’m currently learning: Games! The DOM, js, Node.js, jQuery, Bootstrap, modals and new (to me) HTML tags and custom .. most of this works well in all the Real browsers .. not I.E though ...
-- Browser compat issues? Try This: ```npm install -g caniuse-cmd``` 
-- Just what you've always wanted, it's a caniuse command line tool! All the power of caniuse.com with none of the nice UI or interactivity!
+
+> ... Not I.E. ?
+> 
+> Browser compat issues? Try This: ```npm install -g caniuse-cmd``` 
+> Just what you've always wanted, it's a caniuse command line tool! All the power of caniuse.com with none of the nice UI or interactivity! 
 
 
 <!--
