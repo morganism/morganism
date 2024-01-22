@@ -1,5 +1,5 @@
 ## 13/07/2023
-- 🔭 Ruby API client for RemoteLock
+- 🔭 Ruby API client for RemoteLock : A keyless entry system [RemoteLock](https://remotelock.com/) , [API and Developer Site](https://developer.remotelock.com/api/docs#introduction) 
 - [speedtest-viz](https://github.com/morganism/speedtest-viz) An Okla speedtest implementation for *nix OSes to visualise you bandwidth. Hold your ISP to accout!
 
 PWAs - to make Native like downloadable web apps
