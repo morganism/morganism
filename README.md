@@ -1,6 +1,6 @@
 ## 13/07/2023
 - 🔭 Ruby API client for RemoteLock
-- [speedtest-viz](https://github.com/morganism/speedtest-viz) An OOkla speedtest implementation to visualise you bandwidth. Hold your ISP to accout!
+- [speedtest-viz](https://github.com/morganism/speedtest-viz) An Okla speedtest implementation for *nix OSes to visualise you bandwidth. Hold your ISP to accout!
 
 PWAs - to make Native like downloadable web apps
 SSEs - to deliver page updates without reloading
