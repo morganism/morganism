@@ -11,11 +11,9 @@ SSEs - to deliver page updates without reloading
 
 Webhooks - for integration
 
-[https://git.morganism.dev/reelwords](ReelWords) game, a ruby based console game where you form words from reels of letters. Using 'trie' data structure as the acceptable words dictionary. 
+[ReelWords](https://git.morganism.dev/reelwords) game, a ruby based console game where you form words from reels of letters. Using 'trie' data structure as the acceptable words dictionary. 
 
-
-
-[https://github.com/morganism/upptime/blob/master/README.md](Live Status) page to show uptimes and service status
+[Live Status Page](https://github.com/morganism/upptime/blob/master/README.md) to show uptimes and service status
 
 <!--
 **morganism/morganism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
