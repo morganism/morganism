@@ -15,7 +15,7 @@ Webhooks - for integration
 
 
 
-# [https://github.com/morganism/upptime/blob/master/README.md](Live Status) page to show uptimes and service status
+[https://github.com/morganism/upptime/blob/master/README.md](Live Status) page to show uptimes and service status
 
 <!--
 **morganism/morganism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
