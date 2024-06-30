@@ -1,3 +1,10 @@
+## 29/06/2024
+
+## Current or Interesting Projects
+
+- Had to delete my Cloudflare account to revert my NS record entries! Their URL rewrite functionality worked **once** .. [Morganism Dev](https://git.morganism.dev/) after the TTL ran down it would just hang on 'git.morganism.dev' .. I just wanted the NGrok like proxy functionality to expose local services via a TLS service to fellow netizens, but wanted more than 1 (even paying ngrok limits). So, maybe dockerised Caddy, or a Tailscale funnel. 
+
+
 ## 30/04/2024
 
 ## Current or Interesting Projects
