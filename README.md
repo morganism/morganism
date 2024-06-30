@@ -1,3 +1,6 @@
+> [!TIP]
+> Found a bug or something now working, please raise an issue here: [Central Issue Tracking](https://github.com/users/morganism/projects/8/views/1)
+
 ## 29/06/2024
 
 ## Current or Interesting Projects
