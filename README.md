@@ -1,3 +1,5 @@
+### My [CV - https://git.morganism.dev/cv](https://git.morganism.dev/cv)
+
 > [!TIP]
 > Found a bug or something now working, please raise an issue here: [Central Issue Tracking](https://github.com/users/morganism/projects/8/views/1)
 
