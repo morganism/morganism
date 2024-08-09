@@ -25,7 +25,7 @@ Webhooks - for integration
 
 [ReelWords](https://git.morganism.dev/reelwords) game, a ruby based console game where you form words from reels of letters. Using 'trie' data structure as the acceptable words dictionary. ~[Web Version](https://app.morganism.dev) of the game~ 
 
-[Live Status Page](https://github.com/morganism/upptime/blob/master/README.md) to show uptimes and service status
+[Live Status Page](https://github.com/morganism/upptime/blob/master/README.md#:~:text=Live%20Status) to show uptimes and service status
 
 <!--
 **morganism/morganism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
