@@ -1,4 +1,12 @@
-### My [CV - https://git.morganism.dev/cv](https://git.morganism.dev/cv)
+### My [CV - https://cv.morganism.dev/](https://cv.morganism.dev/) 
+<details>
+  <summary>
+    How I used my skills to manage important documents ... 
+  </summary>
+
+A working examlple of I have used [GitHub Actions](https://docs.github.com/en/actions) and some bespoke [Ruby](https://www.ruby-lang.org/en/) to automatically create a [PDF version](https://raw.githubusercontent.com/morganism/cv/master/CV.pdf) of my [CV](https://cv.morganism.dev/) which is both current and easy to share using [GitHub Pages](https://docs.github.com/en/pages) to host my site for free.  
+
+</details>
 
 > [!TIP]
 > Found a bug or something not working, please raise an issue here: [Central Issue Tracking](https://github.com/users/morganism/projects/8/views/1)
