@@ -15,6 +15,8 @@ A working examlple of I have used [GitHub Actions](https://docs.github.com/en/ac
 
 ## Current or Interesting Projects
 
+- Claude is working really well, check out this experiment [Claude's Pull Request](https://github.com/morganism/horse/pull/9)
+
 - Had to delete my Cloudflare account to revert my NS record entries! Their URL rewrite functionality worked **once** .. [Morganism Dev](https://git.morganism.dev/) after the TTL ran down it would just hang on 'git.morganism.dev' .. I just wanted the NGrok like proxy functionality to expose local services via a TLS service to fellow netizens, but wanted more than 1 (even paying ngrok limits). So, maybe dockerised Caddy, or a Tailscale funnel. 
 
 
