@@ -8,6 +8,8 @@ A working examlple of I have used [GitHub Actions](https://docs.github.com/en/ac
 
 </details>
 
+qr
+
 > [!TIP]
 > Found a bug or something not working, please raise an issue here: [Central Issue Tracking](https://github.com/users/morganism/projects/8/views/1)
 
