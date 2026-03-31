@@ -8,7 +8,7 @@ A working examlple of I have used [GitHub Actions](https://docs.github.com/en/ac
 
 </details>
 
-![Last chance to send me £1](/gbp1.jpg)
+![Last chance to send me £1](/gbp1_b.jpg)
 
 > [!TIP]
 > Found a bug or something not working, please raise an issue here: [Central Issue Tracking](https://github.com/users/morganism/projects/8/views/1)
