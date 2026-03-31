@@ -25,8 +25,7 @@ Found a bug or something not working, please raise an issue here: [Central Issue
     🔐🧭 TOTP - A Time Based One Time Password Authenticator
   </summary>
 
-	Install this [Time Based One Time Password Authenticator](https://totp.morganism.dev) [PWA](https://en.wikipedia.org/wiki/Progressive_web_app) bi clicking the ![install icon](/install_icon.png) in the address bar.
-    Google Authenticator, Authy compatible .. [Source Code](https://git.morganism.dev/totp)
+Install this [Time Based One Time Password Authenticator](https://totp.morganism.dev) [PWA](https://en.wikipedia.org/wiki/Progressive_web_app) bi clicking the ![install icon](/install_icon.png) in the address bar.    Google Authenticator, Authy compatible .. [Source Code](https://git.morganism.dev/totp)
 
 </details>
 	
