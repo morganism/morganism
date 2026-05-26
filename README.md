@@ -6,7 +6,7 @@
 >[!IMPORTANT]
 Found a bug or something not working, please raise an issue here: [Central Issue Tracking](https://github.com/users/morganism/projects/8/views/1)
 
-[ReelWords](https://git.morganism.dev/reelwords) game, a ruby based console game where you form words from reels of letters. Using 'trie' data structure as the acceptable words dictionary. ~[Web Version](https://app.morganism.dev) of the game~ 
+[ReelWords](https://git.morganism.dev/reelwords) game, a ruby based console game where you form words from reels of letters. Using 'trie' / k-ary data structure as the acceptable words dictionary. ~[Web Version](https://app.morganism.dev) of the game~ 
 
 [Live Status Page](https://github.com/morganism/upptime/blob/master/README.md#:~:text=Live%20Status) to show uptimes and service status
 
